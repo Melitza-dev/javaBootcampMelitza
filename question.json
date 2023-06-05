@@ -2,6 +2,6 @@
   "category": "Geografia",
   "question": "¿Cuál es el río más largo del mundo?",
   "options": ["Amazonas", "Nilo", "Misisipi", "Yangtsé"],
-  "answer": "Amazonas",
+  "answer": 0,
   "explanation": "Ubicado en América del Sur. Atraviesa varios países, incluyendo Brasil, Perú, Colombia y Ecuador, entre otros."
 }
