@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Geografia",
+    "description": "Esta categoría se centra en preguntas relacionadas con países, ciudades, ríos, montañas y otros aspectos geográficos del mundo."
+  },
+  {
+    "category": "Cultura general",
+    "description": "Esta categoría abarca preguntas variadas que no encajan en categorías específicas, como conocimientos generales sobre diversos temas, curiosidades, datos interesantes y preguntas para poner a prueba tus conocimientos en diferentes áreas."
+  },
+  {
+    "category": "Musica",
+    "description": "En esta categoría, encontrarás preguntas sobre géneros musicales, artistas, canciones populares, álbumes destacados y eventos relacionados con el mundo de la música."
+  },
+  {
+    "category": "Arte y literatura",
+    "description": "Aquí encontrarás preguntas relacionadas con pinturas famosas, artistas destacados, libros clásicos, autores reconocidos y movimientos artísticos y literarios."
+  },
+  {
+    "category": "Cine y television",
+    "description": "Esta categoría se enfoca en preguntas sobre películas, actores, directores, programas de televisión, premios cinematográficos y otros aspectos relacionados con el mundo del cine y la televisión."
   },
   {
     "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
-  },
-  {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
-  },
-  {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
-  },
-  {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
-  },
-  {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "description": "Aquí se incluyen preguntas sobre diferentes deportes, equipos, atletas famosos, récords deportivos y eventos deportivos destacados, como los Juegos Olímpicos y las Copas del Mundo."
   }
 ]
