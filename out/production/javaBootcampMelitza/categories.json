@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Geografia",
+    "description": "Esta categoría se centra en preguntas relacionadas con países, ciudades, ríos, montañas y otros aspectos geográficos del mundo."
+  },
+  {
+    "category": "Cultura general",
+    "description": "Esta categoría abarca preguntas variadas que no encajan en categorías específicas, como conocimientos generales sobre diversos temas, curiosidades, datos interesantes y preguntas para poner a prueba tus conocimientos en diferentes áreas."
+  },
+  {
+    "category": "Musica",
+    "description": "En esta categoría, encontrarás preguntas sobre géneros musicales, artistas, canciones populares, álbumes destacados y eventos relacionados con el mundo de la música."
+  },
+  {
+    "category": "Arte y literatura",
+    "description": "Aquí encontrarás preguntas relacionadas con pinturas famosas, artistas destacados, libros clásicos, autores reconocidos y movimientos artísticos y literarios."
+  },
+  {
+    "category": "Cine y television",
+    "description": "Esta categoría se enfoca en preguntas sobre películas, actores, directores, programas de televisión, premios cinematográficos y otros aspectos relacionados con el mundo del cine y la televisión."
+  },
+  {
+    "category": "Deportes",
+    "description": "Aquí se incluyen preguntas sobre diferentes deportes, equipos, atletas famosos, récords deportivos y eventos deportivos destacados, como los Juegos Olímpicos y las Copas del Mundo."
+  }
+]
