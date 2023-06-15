@@ -14,8 +14,6 @@ public class Whatsapp {
 
         System.out.println("Puedes llamar por Whatsapp pinchando aqui " + url);
 
-    }
-
-
+     }
 }
 
